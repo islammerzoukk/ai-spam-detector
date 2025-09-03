@@ -9,3 +9,10 @@
 - `src/interface.py` : interface Streamlit pour simuler le fonctionnement du model
 - `spam_model.pkl` & `vectorizer.pkl` : fichiers sauvegardés
 
+## Installation requirements:
+      pandas
+   - scikit-learn
+   - joblib
+   - streamlit
+    
+      
